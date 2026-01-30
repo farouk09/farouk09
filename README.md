@@ -30,34 +30,4 @@ Applied AI engineer specializing in **LLMs**, **AI agents**, and production-grad
 
 ---
 
-## 🎯 Focus Areas
-
-- 🤖 **LLMs & AI Agents** — Tool calling, multi-tenant auth, conversational flows
-- 🔍 **RAG Pipelines** — Embeddings, vector search (pgvector, Qdrant)
-- 👁️ **Computer Vision** — Edge AI, VLMs, diffusers
-- 🧠 **Fine-tuning** — Open source LLMs, PEFT, LoRA, RTL
-- 🎮 **Reinforcement Learning** — GPRO, RLHF
-
----
-
-## 🛠️ Tech Stack
-
-**AI/ML:** PyTorch • TensorFlow • Hugging Face • LangChain • LangGraph • Ollama
-
-**Vector DB:** Qdrant • pgvector • PostgreSQL
-
-**Backend:** FastAPI • Flask • TorchServe • Redis
-
-**Frontend:** Next.js • React
-
-**Cloud:** AWS • OVH • Scaleway • Coolify
-
-**Edge:** Jetson • CUDA • Edge AI
-
----
-
-## 📍 Grenoble, France
-
----
-
 *Building the future of AI-powered conversations at [ZELINQA](https://www.zelinqa.fr/)*
