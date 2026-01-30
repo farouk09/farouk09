@@ -1,6 +1,6 @@
 # Farouk
 
-Applied AI engineer building production LLM agents, RAG systems, and real-time voice workflows.
+Co-Founder & CTO at ZELINQA — The Questioning Intelligence. AI engineer focused on LLMs and AI agents.
 
 ## Projects
 - Oriento: LangGraph ReAct agent for French education orientation (Parcoursup, MonMaster, pre-bac).
