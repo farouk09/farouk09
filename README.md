@@ -13,7 +13,7 @@ Applied AI engineer specializing in **LLMs**, **AI agents**, and production-grad
 ## 🚀 Projects
 
 ### Education & Orientation
-- **Zelia** — AI guide for education orientation helping students, parents, and adults find the right educational path.
+- **Zelia** — AI guide for education orientation helping students, parents, and adults find the right educational path at [ZELIA](https://zeskool.fr/).
 
 ### Conversational AI & E-commerce
 - **UNQ Chat** — Conversational product advisor for design furniture with intelligent recommendations.
