@@ -13,10 +13,10 @@ Applied AI engineer specializing in **LLMs**, **AI agents**, and production-grad
 ## 🚀 Projects
 
 ### Education & Orientation
-- **Zelia** — AI guide for education orientation helping students, parents, and adults find the right educational path at [ZELIA](https://zeskool.fr/).
+- **[ZELIA](https://zeskool.fr/)** — AI guide for education orientation helping students, parents, and adults find the right educational path.
 
 ### Conversational AI & E-commerce
-- **UNQ Chat** — Conversational product advisor for design furniture with intelligent recommendations.
+- **[UNQ Chat](https://unqchat.zelinqa.com/)** — Conversational product advisor for design furniture with intelligent recommendations.  
 
 ### Voice & Healthcare
 - **LiveKit Voice Agents** — Real-time voice AI for healthcare call flows.
