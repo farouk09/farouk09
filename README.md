@@ -1,33 +1,33 @@
 # Farouk Abdallah
 
-**Co-Founder & CTO at [ZELINQA](https://www.zelinqa.fr/) — The Questioning Intelligence** | AI Engineer | LLMs & AI Agents
+**Co-founder & CTO at [Zelinqa](https://zelinqa.ai) · Applied AI Engineer**
 
----
+Grenoble, France
 
-## 👨‍💻 About
+I build AI systems that connect research, software engineering, and real-world products. My work spans conversational AI, agent integrations, backend architecture, and developer tools.
 
-Applied AI engineer specializing in **LLMs**, **AI agents**, and production-grade AI systems. Building scalable conversational AI platforms using LangGraph, RAG pipelines, and real-time voice systems. Background in reinforcement learning, computer vision (Edge AI), and distributed computing.
+## What I'm building
 
----
+At **Zelinqa**, we help AI applications ask better questions: identify missing information, stay relevant to the conversation, and guide the next exchange.
 
-## 🚀 Projects
+I lead the technical development of the platform, from the questioning engine and APIs to **Zelinqa Studio**, our SDKs, and MCP integration.
 
-### Education & Orientation
-- **[ZELIA](https://zeskool.fr/)** — AI guide for education orientation helping students, parents, and adults find the right educational path.
+Explore the public developer tools:
 
-### Conversational AI & E-commerce
-- **[UNQ Chat](https://unqchat.zelinqa.com/)** — Conversational product advisor for design furniture with intelligent recommendations.  
+- **[Zelinqa SDKs](https://github.com/Zelinqa/zelinqa-sdk)** — Python and TypeScript clients for integrating Zelinqa into applications.
+- **[Zelinqa MCP](https://github.com/Zelinqa/zelinqa-mcp)** — Conversation tools for MCP-compatible assistants and agents.
+- **[Developer documentation](https://docs.zelinqa.ai)** — Quickstarts, integration guides, and API reference.
 
-### Voice & Healthcare
-- **LiveKit Voice Agents** — Real-time voice AI for healthcare call flows.
+## Selected projects
 
-### Infrastructure & Tools
-- **LangGraph Threads Migration** — Tooling to export and migrate conversation threads between LangGraph deployments.
+- **[LangGraph Threads Migration](https://github.com/farouk09/langgraph-threads-migration)** — Tools for exporting and migrating conversation threads between LangGraph deployments.
+- **[Distributed Lane Detection](https://github.com/farouk09/Distributed-computing-for-lane-detection-models)** — Distributed inference across edge devices.
+- **[Layout Detection with BEiT](https://github.com/farouk09/Layout-detection-with-BEiT)** — Document layout detection for CV parsing.
 
-### Computer Vision & Edge AI
-- **CV Layout Analysis** — Layout detection system for CV parsing using multi-modal approaches.
-- **Lane Detection Optimization** — Edge AI optimization for autonomous vehicle lane detection algorithms.
+## Technical interests
 
----
+Conversational decision-making · AI agents · Reinforcement learning · Information retrieval · Computer vision · Distributed systems
 
-*Building the future of AI-powered conversations at [ZELINQA](https://www.zelinqa.fr/)*
+**Working with:** Python, TypeScript, PostgreSQL, AWS, Docker, and LangGraph.
+
+[Zelinqa](https://zelinqa.ai) · [GitHub organization](https://github.com/Zelinqa) · [LinkedIn](https://www.linkedin.com/in/farouk-abdallah)
